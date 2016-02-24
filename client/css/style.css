@@ -1,0 +1,12 @@
+.container {
+	font-family: 'PT Serif', serif;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.warning {
+	color:red;
+}
